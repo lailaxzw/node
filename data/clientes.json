@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nome": "Cliente A",
+    "email": "cliente1@example.com"
+  },
+  {
+    "id": 2,
+    "nome": "Cliente B",
+    "email": "cliente2@example.com"
+  },
+  {
+    "id": 4,
+    "nome": "Cliente C",
+    "email": "cliente3@example.com"
+  },
+  {
+    "id": 5,
+    "nome": "Cliente D",
+    "email": "cliente4@example.com"
+  }
+]
